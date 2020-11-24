@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "261552257341",
+    "firebase_url": "https://buivanquoc-bkzalo-app-cfb0a.firebaseio.com",
+    "project_id": "buivanquoc-bkzalo-app-cfb0a",
+    "storage_bucket": "buivanquoc-bkzalo-app-cfb0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261552257341:android:410ccfc79ed2500497ad54",
+        "android_client_info": {
+          "package_name": "com.cntt.buivanquoc_bkzalo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261552257341-05o7r531uisenl7ouua5bnb73o11qg9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5gs6m5diDBtqaZc8_xiBjeV001oLeoQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261552257341-05o7r531uisenl7ouua5bnb73o11qg9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
